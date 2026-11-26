@@ -1,0 +1,36 @@
+Customer ID,Customer Date of Birth,Email,Gender,Location,Product Category,Product Type,Product Name,Product Quantity,Cost Price,Selling Price,Purchase Date,Customer Loyalty Card
+1,31187,john.doe@example.com,Male,"USA,West",Electronics,Laptop,MacBook Pro,20,1500,2000,44562,1
+2,33918,jane.doe@example.com,Female,"Canada,Ontario",Beauty,Skincare,Moisturizer,15,50,80,44563,0
+3,28704,alice.smith@example.com,Female,"UK,London",Clothing,Dress,Maxi Dress,20,100,150,44564,1
+4,34776,bob.johnson@example.com,Male,"Australia,New South Wales",Books,Fiction,The Great Gatsby,20,10,15,44565,0
+5,32759,sarah.nguyen@example.com,Female,"USA,East",Sports,Yoga Mat,Pro Yoga Mat,15,80,100,44566,1
+6,29245,michael.chen@example.com,Male,"USA,West",Home & Kitchen,Blender,NutriBullet,20,80,100,44567,0
+7,33336,ashley.jackson@example.com,Female,"Canada,Quebec",Electronics,Smartphone,iPhone 13,20,900,1000,44568,1
+8,28307,david.lee@example.com,Male,"Singapore,Central",Sports,Running Shoes,Nike Air Zoom,20,120,150,44569,1
+9,32187,emily.ng@example.com,Female,"USA,Midwest",Beauty,Makeup,Mascara,3,30,40,44570,0
+10,36314,jason.wong@example.com,Male,"Australia,Victoria",Clothing,T-shirt,Graphic Tee,15,20,25,44571,1
+11,35025,amy.smith@example.com,Female,"UK,Northern England",Electronics,Headphones,AirPods Pro,20,180,200,44572,0
+12,29204,chris.jones@example.com,Male,"USA,East",Books,Non-fiction,Think and Grow Rich,20,15,20,44573,1
+13,32048,sarah.li@example.com,Female,"Canada,Ontario",Home & Kitchen,Coffee Maker,Keurig K-Select,20,100,120,44574,1
+14,33731,kevin.tran@example.com,Male,"Australia,Queensland",Beauty,Skincare,Face Wash,20,10,15,44575,0
+15,30913,kelly.kim@example.com,Female,"Singapore,West",Clothing,Jeans,Skinny Jeans,20,50,80,44576,1
+16,29657,brian.nguyen@example.com,Male,"USA,Northeast",Electronics,Television,Sony X90J,20,1500,2000,44577,1
+17,33152,jessica.chan@example.com,Female,"Canada,Ontario",Home & Kitchen,Blender,Vitamix E320,25,300,400,44578,1
+18,30183,daniel.lee@example.com,Male,"Singapore,East",Clothing,Jacket,Leather Jacket,30,200,300,44579,0
+19,32510,elizabeth.wong@example.com,Female,"Australia,New South Wales",Beauty,Fragrance,Chanel No. 5,18,200,250,44580,1
+20,35902,ethan.kim@example.com,Male,"USA,West",Sports,Basketball,Spalding NBA,35,50,80,44581,1
+21,34667,grace.yu@example.com,Female,"Canada,British Columbia",Electronics,Laptop,MacBook Air,22,1200,1500,44582,1
+22,29378,jason.lin@example.com,Male,"Singapore,North",Home & Kitchen,Cookware,All-Clad,40,600,800,44583,0
+23,32227,karen.kwok@example.com,Female,"Australia,Victoria",Clothing,Dress,Little Black Dress,16,50,70,44584,1
+24,34224,lee.young@example.com,Male,"UK,London",Beauty,Skincare,Moisturizer,19,25,30,44585,1
+25,31407,michelle.lim@example.com,Female,"Singapore,West",Electronics,Tablet,iPad Pro,21,800,1000,44586,0
+26,30085,andrew.lee@example.com,Male,"USA,West",Sports,Running Shoes,Nike Air Max,20,100,150,44587,0
+27,33503,melissa.wong@example.com,Female,"Australia,Queensland",Home & Kitchen,Coffee Maker,Breville Barista,25,500,600,44223,1
+28,31964,benjamin.ng@example.com,Male,"UK,South East",Beauty,Makeup,Urban Decay,30,25,40,43493,1
+29,33653,cheryl.tan@example.com,Female,"Singapore,Central",Electronics,Smartphone,iPhone 12 Pro,35,1000,1200,43129,1
+30,30987,kevin.kim@example.com,Male,"Canada,Alberta",Sports,Soccer Ball,Adidas Tango,40,20,30,42765,1
+31,36323,tina.nguyen@example.com,Female,"USA,Midwest",Clothing,T-shirt,Levi's,16,15,25,42400,0
+32,30392,stephen.smith@example.com,Male,"Australia,New South Wales",Home & Kitchen,Blender,Vitamix A3500,22,500,600,44593,1
+33,34190,rachel.lee@example.com,Female,"Singapore,East",Beauty,Fragrance,Dior J'adore,18,150,200,44229,1
+34,32157,john.doe@example.com,Male,"USA,Northeast",Electronics,Headphones,Bose QuietComfort,21,300,350,43499,0
+35,32991,amanda.ng@example.com ,Female,"Singapore,East",Beauty,Fragrance,Adidas Tango,18,150,200,43499,1
